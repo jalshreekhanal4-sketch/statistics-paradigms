@@ -1,0 +1,8 @@
+# compiled binaries and build artifacts
+c/statistics
+ocaml/statistics
+*.o
+*.cmi
+*.cmx
+*.out
+__pycache__/
